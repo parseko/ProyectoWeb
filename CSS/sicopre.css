@@ -1,0 +1,375 @@
+/* CSS Document */
+
+
+td.Menu 
+{
+	background-color:#479BB5;
+}
+
+td.Menu:hover 
+{
+	background-color:#77A4F7;
+}
+
+td.Menu2
+{
+	background-color:#FFFFFF;
+}
+
+td.Menu2:hover 
+{
+	background-color:#77A4F7;
+}
+
+
+table.Poa
+{
+	width:520px;
+	border:1px solid #006699;
+}
+
+td.PoaUnidad
+{
+	background:#FFFFFF;
+	border:1px solid #006699;
+	font-family:Verdana;
+	font-size:12px;
+	font-weight:bold;
+	color:#0066CC;
+	text-align:center;
+}
+
+td.PoaTitulo
+{
+	background:#006699;
+	border:1px solid #006699;
+	font-family:Verdana;
+	font-size:10px;
+	font-weight:bold;
+	color:#FFFFFF;
+	text-align:center;
+}
+
+td.PoaDatos
+{
+	background:#FFFFFF;
+	border:1px solid #006699;
+	font-family:Verdana;
+	font-size:10px;
+	color:#006699;
+	text-align:left;
+}
+
+td.PoaAlerta
+{
+	background:#FFFFFF;
+	border:1px solid #006699;
+	font-family:Verdana;
+	font-size:10px;
+	color:#990000;
+	text-align:left;
+}
+
+
+.LinkMenu
+{
+	font-family:Palatino Linotype;
+	font-size:12px;
+	color:#FFFFFF;
+	border-bottom-color:#FFFFFF;
+	text-decoration:none;
+}
+
+.LinkMenu:hover
+{
+	text-decoration:underline;
+}
+
+.LinkMenu2
+{
+	font-family:Verdana;
+	font-size:10px;
+	color;
+	border-bottom-color:#FFFFFF;
+	text-decoration:none;
+}
+
+.LinkMenu:hover
+{
+	text-decoration:underline;
+}
+
+.LinkCatalogo 
+{
+	font:normal 12px Verdana;
+	color:#006699;
+	text-decoration:none;
+}
+
+.LinkCatalogo:hover 
+{
+	font:normal 12px Verdana;
+	color:#930025;
+	text-decoration:underline;
+}
+
+
+
+/*Letras Medianas*/
+
+.MedianoBlanco {
+    font-family:Verdana;
+	font-size:12px;
+	color:#FFFFFF;
+}
+
+.MedianoAmarillo {
+    font-family:Verdana;
+	font-size:12px;
+	color:#E2DD0A;
+}
+
+.MedianoAzul {
+    font-family:Verdana;
+	font-size:12px;
+	color:4EB0E4;
+}
+
+.MedianoNegro {
+    font-family:Verdana;
+	font-size:12px;
+	color:000000;
+}
+
+.MedianoAzulOscuro {
+    font-family:Verdana;
+	font-size:12px;
+	color:#0066CC;
+}
+
+.MedianoExitoAzul {
+    font-family:Verdana;
+	font-size:12px;
+	font-weight: bold;
+	color:#4EB0E4;
+}
+
+
+.MedianoExitoVerde {
+    font-family:Verdana;
+	font-size:12px;
+	font-weight: bold;
+	color:#009933;
+}
+
+.MedianoAlerta {
+    font-family:Verdana;
+	font-size:12px;
+	font-weight: bold;
+	color:#990000;
+}
+
+
+/*Letras Pequeñas*/
+
+
+.PequenioBlanco {
+    font-family:Verdana;
+	font-size:10px;
+	color:#FFFFFF;
+}
+
+.PequenioAzul {
+    font-family:Verdana;
+	font-size:10px;
+	color:4EB0E4;
+}
+
+.PequenioAzulOscuro {
+    font-family:Verdana;
+	font-size:10px;
+	color:#0066CC;
+}
+
+.PequenioNegro {
+    font-family:Verdana;
+	font-size:10px;
+	color:000000;
+}
+
+.PequenioAlerta {
+    font-family:Verdana;
+	font-size:10px;
+	font-weight: bold;
+	color:#990000;
+}
+
+/*Letras para listado de busquedas*/
+
+.busquedaBlanca {
+    font-family:Verdana;
+	font-size:10px;
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.busquedaBlanca:hover {
+	font-family:Verdana;
+	font-size:10px;
+	color:#000099;
+	text-decoration: none;
+}
+
+.busquedaAzul {
+    font-family:Verdana;
+	font-size:10px;
+	color:#0066CC;
+	text-decoration: none;
+}
+
+.busquedaAzul:hover {
+	font-family:Verdana;
+	font-size:10px;
+	color:#000099;
+	text-decoration: none;
+}
+
+
+/*Estilos TEC*/
+
+.PHP1 {
+	font-family:Palatino Linotype;
+	font-size: 15px;
+	color: #000099;
+	text-decoration: none;
+}
+.PHP2 {
+	font-family:Palatino Linotype;
+	font-size: 15px;
+	color: #006633;
+	text-decoration: none;
+}
+.PHP3 {
+	font-family: Palatino Linotype;
+	font-size: 15px;
+	color: #990000;
+	text-decoration: none;
+	font-weight: bold;
+}
+.PHP4 {
+	font-family: Palatino Linotype;
+	font-size: 15px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.PHP5 {
+	font-family: Palatino Linotype, Verdana, Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color:#003366;
+	font-weight:450;
+	text-decoration: none;}
+.PHP6 {
+	font-family: Palatino Linotype;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}
+.PHPlink {
+	font-family: Palatino Linotype;
+	font-size: 15px;
+	color: #006633;
+	text-decoration: none;
+}
+
+.PHPlink:hover {
+	font-family: Palatino Linotype;
+	font-size: 15px;
+	color: #ffffff;
+	text-decoration: none;
+}
+.PHPlink2 {
+	font-family: Palatino Linotype;
+	font-size: 15px;
+	color: #ff6633;
+	text-decoration: none;
+}
+
+.PHPlink2:hover {
+	font-family: Palatino Linotype;
+	font-size: 15px;
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.PHPlink3 {
+	font-family:Palatino Linotype;
+	font-size: 15px;
+	color:#0066FF;
+}
+
+.PHPlink3:hover	{
+	font-family:Palatino Linotype;
+	font-size:15px; 
+	color:#990000;
+	text-align:left;
+}
+
+.PHPlink4 {
+	font-family:Palatino Linotype;
+	font-size:15px;
+	color:#FFFFFF;
+}
+.PHPlink4:hover	{
+	font-family:Palatino Linotype;
+	font-size:15px; 
+	color:#990000;	
+}
+
+.PHPlink6 {
+	font-family:Palatino Linotype;
+	font-size:12px;
+	color:#FFFFFF;
+	text-decoration:none;
+}
+
+.PHPlink6:hover	{
+	font-family:Palatino Linotype;
+	font-size:12px; 
+	color:#FFFF00;
+	text-decoration: none;
+}
+
+
+/*Botones*/
+
+
+#botonPoa
+{
+	font-family:Verdana;
+	font-size:10px;
+	border:2px solid #006699;
+	background-color:#ffffff;
+}
+
+#botonModificacion
+{
+	width:23px;
+	border:1px solid #006699;
+	background:url(../imagenes/pencil.png) no-repeat 100% 50%;
+}
+
+.ControlesTexto
+{
+	width:500px;
+	font-family:Verdana;
+	font-size:10px;
+	border:1px solid #006699;
+}
+
+.ControlesTexto2
+{
+	width:150px;
+	font-family:Verdana;
+	font-size:10px;
+	border:1px solid #006699;
+}
